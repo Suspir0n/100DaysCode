@@ -1,4 +1,4 @@
-from app import db
+from ..app import db
 from flask import request, jsonify
 from ..models.product import Product, product_schema, products_schema
 

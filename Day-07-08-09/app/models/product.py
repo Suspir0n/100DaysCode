@@ -1,5 +1,5 @@
 import datetime
-from app import db, ma
+from ..app import db, ma
 from sqlalchemy.dialects import *
 
 # class product
