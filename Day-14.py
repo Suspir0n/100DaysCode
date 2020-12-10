@@ -1,3 +1,6 @@
+from time import sleep
+from random import randint
+
 print('=' * 50)
 print('{:^50}'.format('PLAY IN MEGA SENNA'))
 print('=' * 50)
