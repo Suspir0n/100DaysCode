@@ -39,7 +39,7 @@ On the tenth day I created a program where you said the amount you wanted to wit
 
 On the 11th I started studying about lists, tuples and dictionaries, beginning my 11th day working with tuples, I implemented a basic program to buy school supplies
 
-## Day Twelven
+## Day Twelve
 
 On the 12th I started a routine of creating tests before implementing, and on that day I created a test ondd validating a password creation function
 
