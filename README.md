@@ -58,3 +58,7 @@ On the 15th I started studying data structures and implemented the queue
 ## Day SixTeen
 
 On the 16th I implemented a string reversal challenge, in which case I was supposed to put a sentence in descending order the words, with that I took advantage and put my testing techniques into practice
+
+## Day Seventeen
+
+On the 17th I implemented the test of my study on queue that today resulted in success hehe
