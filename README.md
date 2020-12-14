@@ -62,3 +62,11 @@ On the 16th I implemented a string reversal challenge, in which case I was suppo
 ## Day Seventeen
 
 On the 17th I implemented the test of my study on queue that today resulted in success hehe
+
+## Day Eighteen
+
+On the 18th I implemented a challenge to find out what passowrd with various combination.
+
+## Day NineTeen
+
+On the 19th Today I conclude the study about composite structures, finishing with Dictionary
