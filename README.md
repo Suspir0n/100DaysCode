@@ -70,3 +70,7 @@ On the 18th I implemented a challenge to find out what passowrd with various com
 ## Day NineTeen
 
 On the 19th Today I conclude the study about composite structures, finishing with Dictionary
+
+## Day Twenty
+
+On the 20th, I implemented one function for analize and know what is the bigger, using decoupling. 
