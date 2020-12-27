@@ -74,3 +74,47 @@ On the 19th Today I conclude the study about composite structures, finishing wit
 ## Day Twenty
 
 On the 20th, I implemented one function for analize and know what is the bigger, using decoupling. 
+
+## Day 21
+
+On the 21th, Today I was implementing a challenge about creating a bank queue, but I realized that I don't need to create a queue, because in python there are collections about it, so tomorrow I will redo this code.
+
+## Day 22
+
+On the 22th, Today I solved part of the problem with my program, now it's working very well, but the priority queue is still missing.
+
+## Day 23
+
+On the 23th, I implemented a function that returns me a color dictionary.
+
+## Day 24
+
+On the 24th, I made a little program to help a friend of mine about a little bit of Database, Php and html, in it you make an insertion in the bank.
+
+## Day 25
+
+On the 25th, today I implemented a function to access the command manual through the help () function in python.
+
+## Day 26
+
+On the 26th, Today I was studying how to make a preferred queue, since I only have one queue to use. __#UNSUCCESSFULLY__
+
+## Day 27
+
+On the 27th, Today I studied image processing, so I implemented a small program that turns images into stickers.
+
+## Day 28
+
+On the 28th, I'm very happy today, I implemented a program to optimize my time, with it I created my project patterns automatically, like folders that I always create or files, and I also created an .exe.
+
+## Day 29
+
+On the 29th, Today I refactored the code for the time optimization program I did yesterday.
+
+## Day 30
+
+On the 30th, Today I created a readme with all the information from my repo link optimization program: https://github.com/Suspir0n/Lazy
+
+## Day 31
+
+On the 31th, today I was solving a problem in the model documents that goes up to the versel, to download. Repo link: https://github.com/Suspir0n/Lazy

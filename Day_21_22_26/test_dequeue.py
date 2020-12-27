@@ -5,9 +5,11 @@ from src.row import dequeue
 # testing the happy way and sad way
 def test_happy_way():
     # Removes the element from the front
-    elements = ['Evandro', 'Ismael', 'Ana Luisa', 'Alisson', 'Kalill']
-    last = 4
-    assert dequeue(elements, last) is True
+    elements = [['Evandro', 19], ['Ismael', 26], ['Ana Luisa', 18], ['Alisson', 16], ['Kalill', 69], ['Julio', 80]]
+    last = 5
+    for c in range(0, last):
+        assert dequeue(elements, last) is True
+        last -= 1
 
 
 def test_sad_way():
